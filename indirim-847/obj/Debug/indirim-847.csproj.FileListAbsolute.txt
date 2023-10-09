@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\indirim-847\indirim-847\bin\Debug\indirim-847.exe.config
+C:\Users\User\source\repos\indirim-847\indirim-847\bin\Debug\indirim-847.exe
+C:\Users\User\source\repos\indirim-847\indirim-847\bin\Debug\indirim-847.pdb
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim_847.lblFiyat.resources
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim_847.Properties.Resources.resources
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.exe
+C:\Users\User\source\repos\indirim-847\indirim-847\obj\Debug\indirim-847.pdb
